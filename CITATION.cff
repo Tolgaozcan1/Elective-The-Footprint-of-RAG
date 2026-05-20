@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this software or its evaluation set, please cite it as below."
+type: software
+title: "SD-A-01-RAG: The Footprint of Retrieval-Augmented Generation Components"
+abstract: >-
+  A small RAG pipeline study measuring how chunk size, embedding model, and
+  retrieval depth trade off cost (latency, memory, energy via CodeCarbon) and
+  quality on a sustainability-themed corpus.
+authors:
+  - family-names: "Özcan"
+    given-names: "Tolga"
+  - family-names: "Yakubu"
+    given-names: "Saheed"
+  - family-names: "Demircan"
+    given-names: "İsmail"
+  - family-names: "Rajappan Krishnan"
+    given-names: "Anandhu"
+  - family-names: "Uzoma"
+    given-names: "Eze Nnaemeka"
+version: "0.1.0"
+date-released: "2026-05-13"
+license: MIT
+repository-code: "https://github.com/REPLACE-WITH-ORG-OR-USER/sd-a-01-rag"
+keywords:
+  - retrieval-augmented-generation
+  - rag
+  - sustainable-ai
+  - green-ai
+  - codecarbon
+  - faiss
+  - ollama
+  - llama-3
+  - reproducibility
+  - llm-evaluation
+preferred-citation:
+  type: report
+  title: "The Footprint of Retrieval-Augmented Generation Components: A Single-Machine Trade-off Study Using Sustainability-Themed Documents as Corpus"
+  authors:
+    - family-names: "Özcan"
+      given-names: "Tolga"
+    - family-names: "Yakubu"
+      given-names: "Saheed"
+    - family-names: "Demircan"
+      given-names: "İsmail"
+    - family-names: "Rajappan Krishnan"
+      given-names: "Anandhu"
+    - family-names: "Uzoma"
+      given-names: "Eze Nnaemeka"
+  institution:
+    name: "University of Europe for Applied Sciences (UE Germany)"
+  year: 2026
+  month: 7
+  notes: >-
+    Course deliverable for "Sustainable Data — The Environmental Cost of the
+    Digital World", Summer Semester 2026. Replace this entry with the final
+    paper citation once the paper is finalised (Milestone 5, due 2026-07-07).
